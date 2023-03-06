@@ -15,6 +15,7 @@
 		4A5E327929B6129200C0A360 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A5E327729B6129200C0A360 /* LaunchScreen.storyboard */; };
 		4A5E328129B61AEE00C0A360 /* VC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5E328029B61AEE00C0A360 /* VC2.swift */; };
 		4A5E328329B61AF300C0A360 /* VC3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5E328229B61AF300C0A360 /* VC3.swift */; };
+		4A8F511C29B637EC00FF4442 /* VC4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A8F511B29B637EC00FF4442 /* VC4.swift */; };
 		A6F61EABE94840E807028ABB /* Pods_ExFlexLayout.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 140AB7A312B5CA6A7EAB4E1C /* Pods_ExFlexLayout.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		4A5E327A29B6129200C0A360 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A5E328029B61AEE00C0A360 /* VC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC2.swift; sourceTree = "<group>"; };
 		4A5E328229B61AF300C0A360 /* VC3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC3.swift; sourceTree = "<group>"; };
+		4A8F511B29B637EC00FF4442 /* VC4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC4.swift; sourceTree = "<group>"; };
 		4BFD1B99551C4E4797E71C2C /* Pods-ExFlexLayout.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExFlexLayout.debug.xcconfig"; path = "Target Support Files/Pods-ExFlexLayout/Pods-ExFlexLayout.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -81,6 +83,7 @@
 				4A5E327029B6129100C0A360 /* ViewController.swift */,
 				4A5E328029B61AEE00C0A360 /* VC2.swift */,
 				4A5E328229B61AF300C0A360 /* VC3.swift */,
+				4A8F511B29B637EC00FF4442 /* VC4.swift */,
 				4A5E327229B6129100C0A360 /* Main.storyboard */,
 				4A5E327529B6129200C0A360 /* Assets.xcassets */,
 				4A5E327729B6129200C0A360 /* LaunchScreen.storyboard */,
@@ -215,6 +218,7 @@
 				4A5E327129B6129100C0A360 /* ViewController.swift in Sources */,
 				4A5E326D29B6129100C0A360 /* AppDelegate.swift in Sources */,
 				4A5E328329B61AF300C0A360 /* VC3.swift in Sources */,
+				4A8F511C29B637EC00FF4442 /* VC4.swift in Sources */,
 				4A5E326F29B6129100C0A360 /* SceneDelegate.swift in Sources */,
 				4A5E328129B61AEE00C0A360 /* VC2.swift in Sources */,
 			);
